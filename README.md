@@ -26,7 +26,7 @@ criar cadastro, atualizar algum cadastro já existente e deletar. Nós também c
 - [x] **Endpoint DELETE (Deletar contas)**
 
 ## Executados em linguagem JAVA :
-* Projeto em C# : (https://github.com/Tony100574/Projeto_New_bank)
+* Projeto em Java : (https://github.com/Tony100574/Projeto_New_bank)
 - [x] **Endpoint GET (Consultar todas as contas)**
 - [x] **Endpoint GET (Consulta por id)**
 - [x] **Endpoint POST (Cadastrar contas)**
